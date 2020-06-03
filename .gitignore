@@ -1,0 +1,8 @@
+# ほんとは絶対ignoreして
+#*.tfvars
+
+# Ignore terraform logs
+*.tfstate
+*.tfstate.backup
+# Local .terraform directories
+**/.terraform/*
